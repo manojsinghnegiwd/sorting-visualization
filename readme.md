@@ -1,7 +1,7 @@
 Sorting visualization using p5.js
 ====================
 
-* [Bubble sort](./bubblesort/readme.md)
+* [Bubble sort](./bubblesort)
 
 ### About Me
 
