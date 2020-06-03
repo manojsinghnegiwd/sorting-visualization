@@ -2,6 +2,7 @@ Sorting visualization using p5.js
 ====================
 
 * [Bubble sort](./bubblesort)
+* [Quick sort](./quicksort)
 
 ### About Me
 

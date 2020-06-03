@@ -1,6 +1,6 @@
-Bubble Sort Visualization using p5.js
+Quick Sort Visualization using p5.js
 ===========
 
 <p align="center">
-  <img src="./bubblesortpreview.gif">
+  <img src="./quicksortpreview.gif">
 </p>
