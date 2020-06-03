@@ -2,8 +2,16 @@ Sorting visualization using p5.js
 ====================
 
 * [Bubble sort](./bubblesort)
+
+<img src="./bubblesort/bubblesortpreview.gif">
+
 * [Quick sort](./quicksort)
+
+<img src="./quicksort/quicksortpreview.gif">
+
 * [Selection sort](./selectionsort)
+
+<img src="./selectionsort/selectionsortpreview.gif">
 
 ### About Me
 
